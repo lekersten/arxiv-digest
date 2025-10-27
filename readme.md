@@ -29,8 +29,8 @@ This Streamlit app fetches the latest papers, gives you **bite-sized summaries**
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/lekersten/arxiv-digest.git
+cd arxiv-digest
 ```
 
 ### 2️⃣ Install Dependencies
